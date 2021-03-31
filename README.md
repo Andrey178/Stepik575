@@ -2,7 +2,7 @@
 #             Python             #
 #            Selenium            #
 #               Git              #
-#                                #
-#            Ah-r-r-r!           #
-#                                #
 ###################################
+
+Hometasks for Stepik 'Test automation
+with Selenium and Python" course
